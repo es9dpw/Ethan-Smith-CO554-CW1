@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OTS.Consumers;
+using System;
 
 namespace OTS
 {
@@ -9,7 +10,9 @@ namespace OTS
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to the Online Ticketing System for The Bucks Centre for the Performing Arts\n");
+            Consumer consumer = new Consumer();
+            consumer.Run();
         }
     }
 }
