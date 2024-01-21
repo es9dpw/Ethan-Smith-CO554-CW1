@@ -1,0 +1,15 @@
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\bin\Debug\net6.0\OTS.exe
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\bin\Debug\net6.0\OTS.deps.json
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\bin\Debug\net6.0\OTS.runtimeconfig.json
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\bin\Debug\net6.0\OTS.dll
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\bin\Debug\net6.0\OTS.pdb
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.csproj.AssemblyReference.cache
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.AssemblyInfoInputs.cache
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.AssemblyInfo.cs
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.csproj.CoreCompileInputs.cache
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.dll
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\refint\OTS.dll
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.pdb
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\OTS.genruntimeconfig.cache
+c:\Users\es9dp\Documents\BNU\OOP\Ethan-Smith-CO554-CW1\OTS\obj\Debug\net6.0\ref\OTS.dll
