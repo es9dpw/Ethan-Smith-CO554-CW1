@@ -1,25 +1,25 @@
 using System;
-using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
 using System.Collections;
-using System.Linq;
 
 namespace OTS.Consumers
 {
     /// <summary>
-    /// 
+    /// This class is responsible for user to logging into the system as well as signing up to the system if tehy don't already have an account.
     /// </summary>
     public class Consumer
     {
-        bool loggedIn = false;
+        public bool loggedIn = false;
         string account;
         public string email = ".";
-        public string password;
+        string password;
         public string name;
-        public ArrayList emails = new ArrayList();
-        public ArrayList passwords = new ArrayList();
-        public ArrayList names = new ArrayList();
+        ArrayList emails = new ArrayList();
+        ArrayList passwords = new ArrayList();
+        ArrayList names = new ArrayList();
 
+        /// <summary>
+        /// This method is the main method for this class and it asks to user to select whether they need to sign up or just log in and then calls the appropriate method for the option they selected.
+        /// </summary>
         public void Run()
         {
             while (loggedIn == false){
@@ -38,6 +38,10 @@ namespace OTS.Consumers
             }
         }
 
+        /// <summary>
+        /// This method is called when the user has seleceted to log in and prompts them to enter their email and password then checks against currently saved emails and passwords to make sure they match with a login in the system.
+        /// It also then pulls their name from the database and into a variable so their name can be used in other classes.
+        /// </summary>
         public void LogIn()
         {
             Console.Write("Please enter your email: ");
@@ -57,6 +61,9 @@ namespace OTS.Consumers
             }
         }
 
+        /// <summary>
+        /// This method is called when the user has seleceted to sign up and prompts them to enter their email, name and password then adds them all to the system.
+        /// </summary>
         public void SignUp()
         {
             while (email.Contains("@") == false){

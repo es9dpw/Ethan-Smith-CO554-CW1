@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj": {}
+    "C:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj": {}
   },
   "projects": {
-    "c:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj": {
+    "C:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj",
+        "projectUniqueName": "C:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj",
         "projectName": "OTS",
-        "projectPath": "c:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj",
+        "projectPath": "C:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\OTS.csproj",
         "packagesPath": "C:\\Users\\es9dp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\obj\\",
+        "outputPath": "C:\\Users\\es9dp\\Documents\\BNU\\OOP\\Ethan-Smith-CO554-CW1\\OTS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\es9dp\\AppData\\Roaming\\NuGet\\NuGet.Config"
