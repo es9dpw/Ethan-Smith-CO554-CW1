@@ -39,7 +39,7 @@ namespace OTS.Consumers
         }
 
         /// <summary>
-        /// This method is called when the user has seleceted to log in and prompts them to enter their email and password then checks against currently saved emails and passwords to make sure they match with a login in the system.
+        /// This method is called when the user has selected to log in and prompts them to enter their email and password then checks against currently saved emails and passwords to make sure they match with a login in the system.
         /// It also then pulls their name from the database and into a variable so their name can be used in other classes.
         /// </summary>
         public void LogIn()
