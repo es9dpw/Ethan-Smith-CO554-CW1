@@ -24,7 +24,7 @@ namespace OTS.Shows
                 Console.WriteLine(i+1 + ". " + shows[i]);
             }
             while (validShow == false){
-                Console.Write("Enter the number of the show you want to but tickets for: ");
+                Console.Write("Enter the number of the show you want to buy tickets for: ");
                 showNumber = (Convert.ToInt32(Console.ReadLine())) - 1;
                 if (showNumber <= (shows.Length - 1)){
                     validShow = true;
