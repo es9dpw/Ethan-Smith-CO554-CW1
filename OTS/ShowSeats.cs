@@ -35,13 +35,13 @@ namespace OTS.ShowSeats
         /// </summary>
         public void SelectSeats()
         {
-            Console.Write("Enter the number of adult tickets you want to purchase:");
+            Console.Write("Enter the number of adult tickets you want to purchase (£" + adultPrice + " each):");
             adultSeats = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the number of child tickets you want to purchase:");
+            Console.Write("Enter the number of child tickets you want to purchase (£" + childPrice + " each):");
             childSeats = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the number of student tickets you want to purchase:");
+            Console.Write("Enter the number of student tickets you want to purchase (£" + studentPrice + " each):");
             studentSeats = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the number of senior citizen tickets you want to purchase:");
+            Console.Write("Enter the number of senior citizen tickets you want to purchase (£" + seniorPrice + " each):");
             seniorSeats = Convert.ToInt32(Console.ReadLine());
             totalCost = (adultSeats * adultPrice) + (childSeats * childPrice) + (studentSeats * studentPrice) + (seniorSeats * seniorPrice);
             Console.WriteLine("You are purchasing " + adultSeats + " adult tickets, " + childSeats + " child tickets, " + studentSeats + " student tickets and " + seniorSeats + " senior citizen tickets for the " + shows[showNumber] + " showing of GYPSY");
