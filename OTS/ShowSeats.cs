@@ -14,10 +14,10 @@ namespace OTS.ShowSeats
         int childSeats;
         int studentSeats;
         int seniorSeats;
-        const double adultPrice = 20.00;
-        const double childPrice = 10.00;
-        const double studentPrice = 17.50;
-        const double seniorPrice = 13.50;
+        double adultPrice = 20.00;
+        double childPrice = 10.00;
+        double studentPrice = 17.50;
+        double seniorPrice = 13.50;
         double totalCost;
 
         /// <summary>
