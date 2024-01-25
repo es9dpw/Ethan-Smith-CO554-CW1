@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 namespace OTS.Shows
 {
     /// <summary>
-    /// This class is responsible for the user sleecting which show time they want to buy tickets for
+    /// This class is responsible for the user selecting which show time they want to buy tickets for
     /// </summary>
     public class Show
     {
@@ -15,7 +15,7 @@ namespace OTS.Shows
         public int showNumber;
 
         /// <summary>
-        /// This method is called b ythe ShowSeat class and it list all the upcoming show timws and asks the user to pick the time of the show they want and stores which show this is to display it back to the user later.
+        /// This method is called by the ShowSeat class and it list all the upcoming show times and asks the user to pick the time of the show they want and stores which show this is to display it back to the user later.
         /// </summary>
         public void UpcomingShows()
         {

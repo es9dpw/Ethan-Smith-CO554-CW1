@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 namespace OTS.ShowSeats
 {
     /// <summary>
-    /// This class is responsible for the user selecting the amount of seast they want for the show they've selected
+    /// This class is responsible for the user selecting the amount of seats they want for the show they've selected
     /// </summary>
     public class ShowSeat : Shows.Show
     {
@@ -21,7 +21,7 @@ namespace OTS.ShowSeats
         double totalCost;
 
         /// <summary>
-        /// This method is the main method for this class and it calls the method for the user to pick a show and then the methoid for the user to sleect the amount of tickets they want
+        /// This method is the main method for this class and it calls the method for the user to pick a show and then the method for the user to select the amount of tickets they want
         /// </summary>
         public void Run()
         {

@@ -4,7 +4,7 @@ using System.Collections;
 namespace OTS.Consumers
 {
     /// <summary>
-    /// This class is responsible for user to logging into the system as well as signing up to the system if tehy don't already have an account.
+    /// This class is responsible for user to logging into the system as well as signing up to the system if they don't already have an account.
     /// </summary>
     public class Consumer
     {
@@ -62,7 +62,7 @@ namespace OTS.Consumers
         }
 
         /// <summary>
-        /// This method is called when the user has seleceted to sign up and prompts them to enter their email, name and password then adds them all to the system.
+        /// This method is called when the user has selected to sign up and prompts them to enter their email, name and password then adds them all to the system.
         /// </summary>
         public void SignUp()
         {
